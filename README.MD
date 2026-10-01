@@ -19,6 +19,16 @@ npm start
 
 Open `http://localhost:3000`. This is a buildless static site; no dependency installation is needed. Any static host can serve `dist/`.
 
+## Host on GitHub Pages
+
+1. In [repository Settings → Pages](https://github.com/molntam/BelgianDrivingLicenseTheoryAPP/settings/pages), set **Build and deployment → Source** to **GitHub Actions**.
+2. Merge the GitHub Pages workflow into `main`. The **Deploy Drive B to GitHub Pages** workflow validates the course and publishes the contents of `dist/` on every push to `main`. You can also start it from **Actions → Deploy Drive B to GitHub Pages → Run workflow**.
+3. When deployment succeeds, open [Drive B on GitHub Pages](https://molntam.github.io/BelgianDrivingLicenseTheoryAPP/).
+
+The workflow needs no database, API keys, dependency installation or build step. It uploads only `dist/`. GitHub's **Deploy from a branch** setting can serve the repository root or `/docs`, but cannot serve `/dist`; use the Actions source for this layout. Relative asset links and hash routes support the repository URL and direct lesson links.
+
+The published website is public. Study progress stays in your browser and is not sent to GitHub. When moving from another host or local preview, export your progress from **Progress**, then import the JSON backup on the GitHub Pages site. Browser storage belongs to each origin, so progress does not transfer automatically. Use the same browser to keep studying, and export a backup before clearing browser data.
+
 ## Check content
 
 ```sh
