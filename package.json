@@ -1,0 +1,11 @@
+{
+  "name": "drive-b-belgian-theory",
+  "private": true,
+  "version": "1.0.0",
+  "description": "Personal visual Belgian Theory B learning platform",
+  "scripts": {
+    "start": "python3 -m http.server 3000 --directory dist",
+    "check": "node scripts/check-content.mjs",
+    "compile": "python3 scripts/author-course.py && python3 scripts/author-questions.py && node scripts/compile.mjs"
+  }
+}

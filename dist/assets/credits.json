@@ -1,0 +1,527 @@
+[
+  {
+    "file": "public-road.webp",
+    "page": 1,
+    "label": "A public road beside Belgian brick houses",
+    "kind": "photo",
+    "width": 294,
+    "height": 220,
+    "crop_pixels": [
+      15,
+      77,
+      309,
+      297
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "road-anatomy.webp",
+    "page": 3,
+    "label": "Parts of a public road: carriageway, cycle lanes and verges",
+    "kind": "photo",
+    "width": 638,
+    "height": 176,
+    "crop_pixels": [
+      11,
+      34,
+      649,
+      210
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "lane-markings.webp",
+    "page": 9,
+    "label": "Carriageways with solid and broken white lane markings",
+    "kind": "diagram",
+    "width": 595,
+    "height": 220,
+    "crop_pixels": [
+      7,
+      70,
+      602,
+      290
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "lane-arrows.webp",
+    "page": 9,
+    "label": "Directional road arrows approaching a signal-controlled junction",
+    "kind": "photo",
+    "width": 294,
+    "height": 220,
+    "crop_pixels": [
+      7,
+      441,
+      301,
+      661
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "temporary-road-markings.webp",
+    "page": 15,
+    "label": "Temporary orange markings during motorway roadworks",
+    "kind": "photo",
+    "width": 745,
+    "height": 249,
+    "crop_pixels": [
+      10,
+      9,
+      755,
+      258
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "motorway-exit.webp",
+    "page": 15,
+    "label": "Motorway exit separated by a hatched road area",
+    "kind": "photo",
+    "width": 745,
+    "height": 268,
+    "crop_pixels": [
+      10,
+      278,
+      755,
+      546
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "zipper-merge.webp",
+    "page": 12,
+    "label": "Two diagrams showing alternating merging at a lane reduction",
+    "kind": "diagram",
+    "width": 553,
+    "height": 324,
+    "crop_pixels": [
+      9,
+      32,
+      562,
+      356
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "shared-cycle-pedestrian-sign.webp",
+    "page": 19,
+    "label": "Blue mandatory path sign shared by pedestrians and cyclists",
+    "kind": "sign",
+    "width": 294,
+    "height": 219,
+    "crop_pixels": [
+      10,
+      33,
+      304,
+      252
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "child-cyclist.webp",
+    "page": 19,
+    "label": "A child cycling beside an adult on a path",
+    "kind": "photo",
+    "width": 294,
+    "height": 219,
+    "crop_pixels": [
+      10,
+      587,
+      304,
+      806
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "motorway-hard-shoulder.webp",
+    "page": 29,
+    "label": "Motorway carriageway and hard shoulder separated by a solid white line",
+    "kind": "photo",
+    "width": 456,
+    "height": 220,
+    "crop_pixels": [
+      12,
+      70,
+      468,
+      290
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "rescue-corridor.webp",
+    "page": 32,
+    "label": "Emergency vehicle using a rescue corridor between traffic lanes",
+    "kind": "diagram",
+    "width": 294,
+    "height": 219,
+    "crop_pixels": [
+      12,
+      31,
+      306,
+      250
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "speed-20.webp",
+    "page": 47,
+    "label": "A 20 km/h speed limit sign",
+    "kind": "sign",
+    "width": 294,
+    "height": 219,
+    "crop_pixels": [
+      9,
+      426,
+      303,
+      645
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "school-zone.webp",
+    "page": 51,
+    "label": "School warning sign with a 30 km/h zone sign",
+    "kind": "photo",
+    "width": 294,
+    "height": 220,
+    "crop_pixels": [
+      12,
+      48,
+      306,
+      268
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "tunnel.webp",
+    "page": 85,
+    "label": "A lit road tunnel with lane markings",
+    "kind": "photo",
+    "width": 294,
+    "height": 220,
+    "crop_pixels": [
+      11,
+      73,
+      305,
+      293
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "passing-cyclist.webp",
+    "page": 110,
+    "label": "Overhead illustration of a car passing a cyclist with a marked 1.5 metre gap",
+    "kind": "diagram",
+    "width": 266,
+    "height": 394,
+    "crop_pixels": [
+      461,
+      34,
+      727,
+      428
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "priority-road-junction.webp",
+    "page": 140,
+    "label": "A car driving straight at a priority-road junction",
+    "kind": "diagram",
+    "width": 294,
+    "height": 220,
+    "crop_pixels": [
+      8,
+      73,
+      302,
+      293
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "priority-road-sign.webp",
+    "page": 140,
+    "label": "Yellow diamond priority-road sign",
+    "kind": "sign",
+    "width": 78,
+    "height": 78,
+    "crop_pixels": [
+      331,
+      77,
+      409,
+      155
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "yield-sign.webp",
+    "page": 142,
+    "label": "Inverted red triangle give-way sign",
+    "kind": "sign",
+    "width": 83,
+    "height": 73,
+    "crop_pixels": [
+      328,
+      372,
+      411,
+      445
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "shark-teeth.webp",
+    "page": 142,
+    "label": "White triangular give-way markings before a crossing road",
+    "kind": "photo",
+    "width": 294,
+    "height": 230,
+    "crop_pixels": [
+      9,
+      649,
+      303,
+      879
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "stop-junction.webp",
+    "page": 144,
+    "label": "Stop sign beside a stop line and crossing cycle lane",
+    "kind": "photo",
+    "width": 294,
+    "height": 220,
+    "crop_pixels": [
+      10,
+      360,
+      304,
+      580
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "priority-from-right.webp",
+    "page": 153,
+    "label": "A purple car approaching a junction with a red car from its right",
+    "kind": "diagram",
+    "width": 294,
+    "height": 220,
+    "crop_pixels": [
+      13,
+      68,
+      307,
+      288
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "priority-from-right-turning.webp",
+    "page": 153,
+    "label": "Junction showing possible turns by a vehicle coming from the right",
+    "kind": "diagram",
+    "width": 294,
+    "height": 220,
+    "crop_pixels": [
+      13,
+      327,
+      307,
+      547
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "level-crossing.webp",
+    "page": 164,
+    "label": "Railway level crossing with train, barrier, and flashing red signal",
+    "kind": "photo",
+    "width": 294,
+    "height": 210,
+    "crop_pixels": [
+      8,
+      71,
+      302,
+      281
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "bus-stop.webp",
+    "page": 170,
+    "label": "Road marking and sign identifying a Belgian bus stop",
+    "kind": "photo",
+    "width": 294,
+    "height": 219,
+    "crop_pixels": [
+      13,
+      35,
+      307,
+      254
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "parking-on-cycle-lane.webp",
+    "page": 188,
+    "label": "A parked car blocking a red cycle lane",
+    "kind": "photo",
+    "width": 294,
+    "height": 219,
+    "crop_pixels": [
+      10,
+      39,
+      304,
+      258
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "yellow-parking-line.webp",
+    "page": 200,
+    "label": "Broken yellow line at the road edge beside a stopped car",
+    "kind": "photo",
+    "width": 294,
+    "height": 219,
+    "crop_pixels": [
+      6,
+      45,
+      300,
+      264
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "accessible-parking.webp",
+    "page": 200,
+    "label": "Blue parking sign with a wheelchair-symbol plate",
+    "kind": "photo",
+    "width": 294,
+    "height": 219,
+    "crop_pixels": [
+      6,
+      322,
+      300,
+      541
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "no-parking-sign.webp",
+    "page": 200,
+    "label": "Round blue and red parking-prohibited sign with one diagonal bar",
+    "kind": "sign",
+    "width": 166,
+    "height": 153,
+    "crop_pixels": [
+      6,
+      661,
+      172,
+      814
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "no-stopping-sign.webp",
+    "page": 201,
+    "label": "Round blue and red stopping-and-parking-prohibited sign",
+    "kind": "sign",
+    "width": 166,
+    "height": 153,
+    "crop_pixels": [
+      13,
+      45,
+      179,
+      198
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "blue-zone.webp",
+    "page": 204,
+    "label": "Blue-zone sign with a parking-disc symbol",
+    "kind": "photo",
+    "width": 294,
+    "height": 219,
+    "crop_pixels": [
+      10,
+      75,
+      304,
+      294
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "parking-disc.webp",
+    "page": 204,
+    "label": "Blue parking disc showing an arrival-time dial",
+    "kind": "photo",
+    "width": 294,
+    "height": 220,
+    "crop_pixels": [
+      10,
+      629,
+      304,
+      849
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "warning-triangle.webp",
+    "page": 216,
+    "label": "Warning triangle behind a broken-down car on an ordinary road",
+    "kind": "photo",
+    "width": 294,
+    "height": 219,
+    "crop_pixels": [
+      9,
+      33,
+      303,
+      252
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "reflective-vest.webp",
+    "page": 219,
+    "label": "High-visibility yellow reflective safety vest",
+    "kind": "photo",
+    "width": 294,
+    "height": 219,
+    "crop_pixels": [
+      8,
+      288,
+      302,
+      507
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "breathalyser.webp",
+    "page": 213,
+    "label": "Digital breathalyser used for an alcohol breath analysis",
+    "kind": "photo",
+    "width": 294,
+    "height": 220,
+    "crop_pixels": [
+      10,
+      314,
+      304,
+      534
+    ],
+    "source": "source/SourceBook.pdf"
+  },
+  {
+    "file": "mandatory-straight.webp",
+    "page": 180,
+    "label": "Straight-ahead mandatory direction sign with a bicycle and moped exception plate",
+    "kind": "photo",
+    "width": 294,
+    "height": 220,
+    "crop_pixels": [
+      8,
+      660,
+      302,
+      880
+    ],
+    "source": "source/SourceBook.pdf"
+  }
+]
