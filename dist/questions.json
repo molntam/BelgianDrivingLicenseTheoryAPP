@@ -1,0 +1,2207 @@
+[
+  {
+    "id": "q001",
+    "lesson": 1,
+    "text": "Which part of a public road is normally used by vehicles?",
+    "options": [
+      "The carriageway",
+      "Only the pavement",
+      "The entire road, without distinction"
+    ],
+    "answer": 0,
+    "explanation": "The carriageway is the part normally used by vehicles. The public road can also include pavements, cycle paths and verges.",
+    "nl": "Welk deel van de openbare weg wordt normaal door voertuigen gebruikt?",
+    "nlOptions": [
+      "De rijbaan",
+      "Alleen het trottoir",
+      "De volledige weg, zonder onderscheid"
+    ],
+    "major": false,
+    "image": "road-anatomy.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q002",
+    "lesson": 1,
+    "text": "A road is privately owned but open to public traffic. Can road-traffic rules apply?",
+    "options": [
+      "Yes",
+      "No, never",
+      "Only if it has street lights"
+    ],
+    "answer": 0,
+    "explanation": "Public accessibility matters; private ownership alone does not exclude the road from traffic rules.",
+    "nl": "Een weg is privé-eigendom maar staat open voor openbaar verkeer. Kunnen de verkeersregels er gelden?",
+    "nlOptions": [
+      "Ja",
+      "Nee, nooit",
+      "Alleen als er straatverlichting is"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q003",
+    "lesson": 1,
+    "text": "On an ordinary two-way road, where should you normally drive?",
+    "options": [
+      "As far left as possible",
+      "As close to the right edge as appropriate",
+      "Always astride the centre line"
+    ],
+    "answer": 1,
+    "explanation": "The normal position is near the right edge, while preserving safe clearance and respecting road markings.",
+    "nl": "Waar rijd je normaal op een gewone weg met verkeer in beide richtingen?",
+    "nlOptions": [
+      "Zo ver mogelijk links",
+      "Zo dicht mogelijk bij de rechterrand als verantwoord is",
+      "Altijd over de middenlijn"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q004",
+    "lesson": 2,
+    "text": "You have a broken white line beside you and a solid line beyond it. May you cross the broken line if the move is safe?",
+    "options": [
+      "No, the further line always controls you",
+      "Yes, obey the line nearest you",
+      "Only after sounding the horn"
+    ],
+    "answer": 1,
+    "explanation": "With combined solid and broken lines, follow the line nearest your vehicle. You still need a safe, lawful manoeuvre.",
+    "nl": "Naast jou ligt een onderbroken witte lijn, met daarnaast een doorlopende lijn. Mag je de onderbroken lijn veilig overschrijden?",
+    "nlOptions": [
+      "Nee, de verste lijn geldt altijd",
+      "Ja, de dichtstbijzijnde lijn geldt",
+      "Alleen na een claxonsignaal"
+    ],
+    "major": false,
+    "image": "lane-markings.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q005",
+    "lesson": 2,
+    "text": "Very slow traffic approaches a lane closure. Where should drivers use zipper merging?",
+    "options": [
+      "Far before the narrowing",
+      "Immediately before the narrowing",
+      "Only after the lane has already disappeared"
+    ],
+    "answer": 1,
+    "explanation": "In very slow traffic, merge alternately immediately before the narrowing. This uses the available lanes efficiently.",
+    "nl": "Bij sterk vertraagd verkeer valt een rijstrook weg. Waar pas je ritsen toe?",
+    "nlOptions": [
+      "Ver vóór de versmalling",
+      "Vlak vóór de versmalling",
+      "Pas nadat de rijstrook al verdwenen is"
+    ],
+    "major": false,
+    "image": "zipper-merge.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q006",
+    "lesson": 2,
+    "text": "In roadworks, temporary orange markings conflict with white markings. Which do you follow?",
+    "options": [
+      "The white markings",
+      "The orange markings",
+      "Whichever lane is fastest"
+    ],
+    "answer": 1,
+    "explanation": "Temporary orange markings take precedence over ordinary white markings.",
+    "nl": "Bij werken spreken tijdelijke oranje markeringen de witte markeringen tegen. Welke volg je?",
+    "nlOptions": [
+      "De witte markeringen",
+      "De oranje markeringen",
+      "De snelste rijstrook"
+    ],
+    "major": false,
+    "image": "temporary-road-markings.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q007",
+    "lesson": 3,
+    "text": "You drive a car in a signed cycle zone. May you overtake a cyclist?",
+    "options": [
+      "Yes, with a 1-metre gap",
+      "Yes, below 30 km/h",
+      "No"
+    ],
+    "answer": 2,
+    "explanation": "Motor vehicles may not overtake cyclists in a cycle zone. The maximum is 30 km/h.",
+    "nl": "Je rijdt met een auto in een fietszone. Mag je een fietser inhalen?",
+    "nlOptions": [
+      "Ja, met één meter afstand",
+      "Ja, onder dertig kilometer per uur",
+      "Nee"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q008",
+    "lesson": 3,
+    "text": "Does red surfacing alone prove that a strip is a legally reserved cycle path?",
+    "options": [
+      "Yes",
+      "No, check the signs and markings",
+      "Only outside a built-up area"
+    ],
+    "answer": 1,
+    "explanation": "Colour alone is not the legal definition. A suggested cycle strip can be part of the carriageway.",
+    "nl": "Bewijst rode verharding op zichzelf dat een strook een voorbehouden fietspad is?",
+    "nlOptions": [
+      "Ja",
+      "Nee, kijk naar borden en markeringen",
+      "Alleen buiten de bebouwde kom"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q009",
+    "lesson": 3,
+    "text": "A cyclist is riding along a cycle path that you must cross to turn right. What should you do?",
+    "options": [
+      "Turn first because you indicated",
+      "Give way to the cyclist",
+      "Sound the horn and turn"
+    ],
+    "answer": 1,
+    "explanation": "When turning across a cycle path, give way to its users. An indicator does not give priority.",
+    "nl": "Een fietser rijdt op het fietspad dat je kruist om rechts af te slaan. Wat doe je?",
+    "nlOptions": [
+      "Eerst afslaan omdat je richting aangaf",
+      "Voorrang verlenen aan de fietser",
+      "Claxonneren en afslaan"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Turning across cyclists: Article 19.4, third degree"
+  },
+  {
+    "id": "q010",
+    "lesson": 4,
+    "text": "You miss your motorway exit. What is the correct action?",
+    "options": [
+      "Reverse along the shoulder",
+      "Stop in the exit lane",
+      "Continue to the next exit"
+    ],
+    "answer": 2,
+    "explanation": "Never reverse or turn around on a motorway. Continue to the next exit.",
+    "nl": "Je mist je afrit op de autosnelweg. Wat doe je?",
+    "nlOptions": [
+      "Achteruitrijden op de pechstrook",
+      "Stoppen in de afritstrook",
+      "Doorrijden tot de volgende afrit"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Reversing on a motorway: Article 21.4, fourth degree"
+  },
+  {
+    "id": "q011",
+    "lesson": 4,
+    "text": "When entering a motorway, who normally has priority?",
+    "options": [
+      "Traffic already on the motorway",
+      "Traffic in the acceleration lane",
+      "The vehicle travelling faster"
+    ],
+    "answer": 0,
+    "explanation": "The acceleration lane helps you find a safe gap; joining traffic must give way.",
+    "nl": "Wie heeft normaal voorrang wanneer je een autosnelweg oprijdt?",
+    "nlOptions": [
+      "Het verkeer dat al op de autosnelweg rijdt",
+      "Het verkeer op de invoegstrook",
+      "Het snelste voertuig"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q012",
+    "lesson": 4,
+    "text": "A queue forms on a three-lane motorway. Where is the rescue corridor?",
+    "options": [
+      "Between the middle and right lanes",
+      "Between the leftmost lane and the lane beside it",
+      "On the central reservation"
+    ],
+    "answer": 1,
+    "explanation": "The leftmost lane moves left; every other lane moves right. The corridor is between the leftmost lane and its neighbour.",
+    "nl": "Er ontstaat een file op een autosnelweg met drie rijstroken. Waar komt de reddingsstrook?",
+    "nlOptions": [
+      "Tussen de middelste en rechterrijstrook",
+      "Tussen de meest linkse rijstrook en de rijstrook ernaast",
+      "Op de middenberm"
+    ],
+    "major": false,
+    "image": "rescue-corridor.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q013",
+    "lesson": 5,
+    "text": "In Flanders, you drive a normal car on an ordinary road outside a built-up area. No speed signs apply. What is the normal maximum?",
+    "options": [
+      "50 km/h",
+      "70 km/h",
+      "90 km/h"
+    ],
+    "answer": 1,
+    "explanation": "The Flemish default on ordinary roads outside a built-up area is 70 km/h. Specific road layouts or signs can change it.",
+    "nl": "Je rijdt in Vlaanderen met een gewone auto buiten de bebouwde kom op een gewone weg zonder snelheidsborden. Wat is de maximumsnelheid?",
+    "nlOptions": [
+      "Vijftig kilometer per uur",
+      "Zeventig kilometer per uur",
+      "Negentig kilometer per uur"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Maximum permitted speed: five-point question under Flemish exam rules"
+  },
+  {
+    "id": "q014",
+    "lesson": 5,
+    "text": "Outside a built-up area in Flanders, a road has two lanes each way separated only by paint. No signs apply. May you drive 120 km/h?",
+    "options": [
+      "Yes, it has four lanes",
+      "No, painted separation is not a physical central reservation",
+      "Yes, if traffic is light"
+    ],
+    "answer": 1,
+    "explanation": "The 120 km/h road-layout exception needs physical separation. In this Flemish painted-separation case, the normal maximum is 70 km/h.",
+    "nl": "Een weg buiten de bebouwde kom in Vlaanderen heeft twee rijstroken per richting, alleen gescheiden door verf. Zonder borden mag je er honderdtwintig rijden?",
+    "nlOptions": [
+      "Ja, er zijn vier rijstroken",
+      "Nee, verf is geen fysieke middenberm",
+      "Ja, bij weinig verkeer"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Maximum permitted speed: five-point question under Flemish exam rules"
+  },
+  {
+    "id": "q015",
+    "lesson": 5,
+    "text": "You pass a junction inside a signed 30 km/h zone. Has the zone limit ended?",
+    "options": [
+      "Yes, every junction ends it",
+      "No, it continues until the zone-end sign",
+      "Only if the crossing road is wider"
+    ],
+    "answer": 1,
+    "explanation": "A zone continues across junctions until its end sign.",
+    "nl": "Je passeert een kruispunt in een zone dertig. Eindigt de zonelimiet daar?",
+    "nlOptions": [
+      "Ja, elk kruispunt beëindigt ze",
+      "Nee, ze geldt tot het eindezonebord",
+      "Alleen als de kruisende weg breder is"
+    ],
+    "major": true,
+    "image": "school-zone.webp",
+    "severityReason": "Maximum permitted speed: five-point question under Flemish exam rules"
+  },
+  {
+    "id": "q016",
+    "lesson": 6,
+    "text": "What is the usual maximum for a car in a built-up area in Flanders if no other limit applies?",
+    "options": [
+      "30 km/h",
+      "50 km/h",
+      "70 km/h"
+    ],
+    "answer": 1,
+    "explanation": "Flanders uses a normal built-up-area maximum of 50 km/h. Brussels generally uses 30 km/h.",
+    "nl": "Wat is de gewone maximumsnelheid voor een auto binnen de bebouwde kom in Vlaanderen zonder andere beperking?",
+    "nlOptions": [
+      "Dertig kilometer per uur",
+      "Vijftig kilometer per uur",
+      "Zeventig kilometer per uur"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Maximum permitted speed: five-point question under Flemish exam rules"
+  },
+  {
+    "id": "q017",
+    "lesson": 6,
+    "text": "What is the maximum in a signed residential or home zone?",
+    "options": [
+      "20 km/h",
+      "30 km/h",
+      "50 km/h"
+    ],
+    "answer": 0,
+    "explanation": "Residential/home zones have a 20 km/h maximum, and pedestrians may use the full road width.",
+    "nl": "Wat is de maximumsnelheid in een aangeduid erf of woonerf?",
+    "nlOptions": [
+      "Twintig kilometer per uur",
+      "Dertig kilometer per uur",
+      "Vijftig kilometer per uur"
+    ],
+    "major": true,
+    "image": "speed-20.webp",
+    "severityReason": "Maximum permitted speed: five-point question under Flemish exam rules"
+  },
+  {
+    "id": "q018",
+    "lesson": 6,
+    "text": "Where may you park in a signed residential/home zone?",
+    "options": [
+      "Anywhere you leave 3 metres free",
+      "Only where markings or signs permit parking",
+      "On every pavement"
+    ],
+    "answer": 1,
+    "explanation": "Parking in a residential/home zone is limited to places indicated by signs or markings.",
+    "nl": "Waar mag je parkeren in een aangeduid erf of woonerf?",
+    "nlOptions": [
+      "Overal waar drie meter vrij blijft",
+      "Alleen waar borden of markeringen parkeren toelaten",
+      "Op elk trottoir"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q019",
+    "lesson": 7,
+    "text": "A pedestrian is clearly about to step onto an unsignalised zebra crossing. What should you do?",
+    "options": [
+      "Give way and stop if needed",
+      "Continue until they are in your lane",
+      "Sound the horn to warn them"
+    ],
+    "answer": 0,
+    "explanation": "You must give way to pedestrians on or about to use an unsignalised zebra crossing.",
+    "nl": "Een voetganger wil duidelijk een zebrapad zonder verkeerslichten oversteken. Wat doe je?",
+    "nlOptions": [
+      "Voorrang verlenen en zo nodig stoppen",
+      "Doorrijden tot die in jouw rijstrook staat",
+      "Claxonneren om te waarschuwen"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Zebra-crossing priority: Article 40.4.2, third degree"
+  },
+  {
+    "id": "q020",
+    "lesson": 7,
+    "text": "A car has stopped just before an unsignalised zebra crossing. May you overtake it?",
+    "options": [
+      "Yes, if you see no pedestrian",
+      "No",
+      "Yes, below 20 km/h"
+    ],
+    "answer": 1,
+    "explanation": "The stopped car may hide a pedestrian. Overtaking a vehicle approaching or stopped at such a crossing is prohibited.",
+    "nl": "Een auto staat stil voor een zebrapad zonder verkeerslichten. Mag je die inhalen?",
+    "nlOptions": [
+      "Ja, als je geen voetganger ziet",
+      "Nee",
+      "Ja, onder twintig kilometer per uur"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Overtaking at a crossing: Article 17.2.5, third degree"
+  },
+  {
+    "id": "q021",
+    "lesson": 7,
+    "text": "You turn right into a road a pedestrian is crossing. Who should wait?",
+    "options": [
+      "The pedestrian",
+      "You must give way",
+      "Whoever arrived last"
+    ],
+    "answer": 1,
+    "explanation": "A turning driver must give way to pedestrians crossing the road being entered.",
+    "nl": "Je slaat rechts af naar een weg die een voetganger oversteekt. Wie moet wachten?",
+    "nlOptions": [
+      "De voetganger",
+      "Jij moet voorrang verlenen",
+      "Wie het laatst aankwam"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Pedestrians when turning: Article 19.5, third degree"
+  },
+  {
+    "id": "q022",
+    "lesson": 8,
+    "text": "May you hold your phone to read a message while waiting at a red light?",
+    "options": [
+      "Yes, because the car is not moving",
+      "No",
+      "Yes, if you keep one hand on the wheel"
+    ],
+    "answer": 1,
+    "explanation": "Waiting at a red light is still driving. The rule covers holding, using or manipulating an unsecured mobile device with a screen.",
+    "nl": "Mag je je telefoon vasthouden om een bericht te lezen terwijl je voor rood wacht?",
+    "nlOptions": [
+      "Ja, de auto beweegt niet",
+      "Nee",
+      "Ja, met één hand aan het stuur"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Unsecured screen device: Article 8.4, third degree"
+  },
+  {
+    "id": "q023",
+    "lesson": 8,
+    "text": "At an equal junction, a cyclist approaches from your right. Does priority from the right apply to the cyclist?",
+    "options": [
+      "Yes",
+      "No, only to motor vehicles",
+      "Only if the cyclist dismounts"
+    ],
+    "answer": 0,
+    "explanation": "A cyclist is a driver. Priority from the right is not reserved for cars.",
+    "nl": "Op een gelijkwaardig kruispunt komt een fietser van rechts. Geldt voorrang van rechts voor die fietser?",
+    "nlOptions": [
+      "Ja",
+      "Nee, alleen voor motorvoertuigen",
+      "Alleen als de fietser afstapt"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q024",
+    "lesson": 8,
+    "text": "Someone is walking while pushing a bicycle. How are they treated by the traffic rules?",
+    "options": [
+      "As a pedestrian",
+      "As a car driver",
+      "As a cyclist who must remain on the cycle path"
+    ],
+    "answer": 0,
+    "explanation": "A person pushing a bicycle is treated as a pedestrian.",
+    "nl": "Iemand loopt en duwt een fiets voort. Hoe wordt die persoon beschouwd?",
+    "nlOptions": [
+      "Als voetganger",
+      "Als autobestuurder",
+      "Als fietser die op het fietspad moet blijven"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q025",
+    "lesson": 9,
+    "text": "What mass normally determines whether a vehicle falls within standard category B?",
+    "options": [
+      "Its current empty mass",
+      "Its maximum authorised mass",
+      "Only the passengers’ combined mass"
+    ],
+    "answer": 1,
+    "explanation": "Category B generally uses maximum authorised mass, normally up to 3,500 kg, rather than the current empty weight.",
+    "nl": "Welke massa bepaalt normaal of een voertuig onder een gewoon rijbewijs B valt?",
+    "nlOptions": [
+      "De huidige lege massa",
+      "De maximaal toegelaten massa",
+      "Alleen de totale massa van de passagiers"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q026",
+    "lesson": 9,
+    "text": "With a full standard B licence, a trailer has a MAM of 900 kg and the car a MAM of 2,400 kg. Is the combination within the standard B mass rule?",
+    "options": [
+      "Yes, total MAM is 3,300 kg",
+      "No, every trailer above 750 kg needs BE",
+      "No, total MAM exceeds 3,500 kg"
+    ],
+    "answer": 0,
+    "explanation": "A trailer over 750 kg can be within B when the combination’s MAM does not exceed 3,500 kg. The car’s technical towing limit must also be respected.",
+    "nl": "Met een definitief rijbewijs B heeft de aanhangwagen een MTM van negenhonderd kilo en de auto vierentwintighonderd kilo. Valt dit binnen de gewone massaregel voor B?",
+    "nlOptions": [
+      "Ja, samen drieëndertighonderd kilo",
+      "Nee, boven zevenhonderdvijftig kilo is altijd BE nodig",
+      "Nee, samen meer dan vijfendertighonderd kilo"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q027",
+    "lesson": 9,
+    "text": "Which item belongs in the required equipment of a normal Belgian-registered car?",
+    "options": [
+      "A warning triangle",
+      "A spare fuel tank",
+      "A tow rope in every case"
+    ],
+    "answer": 0,
+    "explanation": "A warning triangle is required equipment; a normal Belgian car also needs a first-aid kit and an approved fire extinguisher.",
+    "nl": "Welk voorwerp behoort tot de verplichte uitrusting van een gewone Belgische auto?",
+    "nlOptions": [
+      "Een gevarendriehoek",
+      "Een extra brandstoftank",
+      "Altijd een sleepkabel"
+    ],
+    "major": false,
+    "image": "warning-triangle.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q028",
+    "lesson": 10,
+    "text": "A child under 18 is 1.20 metres tall. What is normally required in a car?",
+    "options": [
+      "Only an adult seat belt",
+      "A suitable child restraint",
+      "No restraint in a rear seat"
+    ],
+    "answer": 1,
+    "explanation": "A child under 18 shorter than 1.35 m normally needs an appropriate child restraint.",
+    "nl": "Een kind jonger dan achttien is één meter twintig groot. Wat is normaal verplicht in een auto?",
+    "nlOptions": [
+      "Alleen een volwassenengordel",
+      "Een geschikt kinderbeveiligingssysteem",
+      "Geen beveiliging achterin"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Child restraint: Article 35.1.1, third degree"
+  },
+  {
+    "id": "q029",
+    "lesson": 10,
+    "text": "May a rear-facing child seat be used in front of an active frontal airbag?",
+    "options": [
+      "Yes, at low speed",
+      "No",
+      "Yes, if the child is asleep"
+    ],
+    "answer": 1,
+    "explanation": "A rear-facing seat must not be used in front of an active frontal airbag. Deactivate it or use a suitable rear-seat position.",
+    "nl": "Mag een achterwaarts gericht kinderzitje voor een actieve frontale airbag worden gebruikt?",
+    "nlOptions": [
+      "Ja, bij lage snelheid",
+      "Nee",
+      "Ja, als het kind slaapt"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Rear-facing seat and active airbag: Article 35.1.1, third degree"
+  },
+  {
+    "id": "q030",
+    "lesson": 10,
+    "text": "May a ladder carried by a passenger car project beyond the front of the car?",
+    "options": [
+      "Yes, up to 1 metre",
+      "No",
+      "Yes, if tied down"
+    ],
+    "answer": 1,
+    "explanation": "A passenger-car load must not project at the front. Rear projections have separate limits and marking requirements.",
+    "nl": "Mag een ladder op een personenauto vooraan voorbij de auto uitsteken?",
+    "nlOptions": [
+      "Ja, tot één meter",
+      "Nee",
+      "Ja, als ze vastgebonden is"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q031",
+    "lesson": 11,
+    "text": "In fog, visibility is 80 metres. What is required for the rear fog light?",
+    "options": [
+      "Use it",
+      "Keep it off unless it is night",
+      "Use only hazard lights"
+    ],
+    "answer": 0,
+    "explanation": "Rear fog lights must be used in fog or snowfall with visibility below 100 m, and in heavy rain.",
+    "nl": "Bij mist is de zichtbaarheid tachtig meter. Wat moet je doen met het mistachterlicht?",
+    "nlOptions": [
+      "Inschakelen",
+      "Uit laten behalve in de nacht",
+      "Alleen de alarmlichten gebruiken"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q032",
+    "lesson": 11,
+    "text": "You enter a tunnel during the day. Should you rely on daytime running lights alone?",
+    "options": [
+      "Yes, always",
+      "No, use proper dipped headlights",
+      "Only if the tunnel is busy"
+    ],
+    "answer": 1,
+    "explanation": "Use dipped headlights in a tunnel. DRLs may not illuminate the rear of your car.",
+    "nl": "Je rijdt overdag een tunnel in. Volstaan alleen dagrijlichten?",
+    "nlOptions": [
+      "Ja, altijd",
+      "Nee, gebruik de dimlichten",
+      "Alleen als het druk is"
+    ],
+    "major": false,
+    "image": "tunnel.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q033",
+    "lesson": 11,
+    "text": "Does indicating before a lane change give you priority?",
+    "options": [
+      "Yes",
+      "No",
+      "Only on a motorway"
+    ],
+    "answer": 1,
+    "explanation": "An indicator communicates your intention. A lane change is a manoeuvre, and you must give way.",
+    "nl": "Geeft je richtingaanwijzer je voorrang bij het veranderen van rijstrook?",
+    "nlOptions": [
+      "Ja",
+      "Nee",
+      "Alleen op een autosnelweg"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q034",
+    "lesson": 12,
+    "text": "On a motorway, a 90 km/h sign applies. What is the maximum for your normal car?",
+    "options": [
+      "120 km/h",
+      "90 km/h",
+      "130 km/h"
+    ],
+    "answer": 1,
+    "explanation": "The posted lower limit overrides the normal motorway maximum.",
+    "nl": "Op de autosnelweg geldt een bord van negentig kilometer per uur. Wat is de maximumsnelheid voor je gewone auto?",
+    "nlOptions": [
+      "Honderdtwintig kilometer per uur",
+      "Negentig kilometer per uur",
+      "Honderddertig kilometer per uur"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Maximum permitted speed: five-point question under Flemish exam rules"
+  },
+  {
+    "id": "q035",
+    "lesson": 12,
+    "text": "The posted limit is 70 km/h, but dense fog greatly reduces your view. Should you maintain 70?",
+    "options": [
+      "Yes, the sign requires it",
+      "No, adapt speed to visibility",
+      "Yes, with high beam"
+    ],
+    "answer": 1,
+    "explanation": "A maximum is not a target. You must be able to stop within your visible, clear distance.",
+    "nl": "De limiet is zeventig maar dichte mist beperkt het zicht. Moet je zeventig blijven rijden?",
+    "nlOptions": [
+      "Ja, het bord verplicht dat",
+      "Nee, pas je snelheid aan het zicht aan",
+      "Ja, met grootlichten"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q036",
+    "lesson": 12,
+    "text": "What is the normal speed limit in a built-up area in Brussels when no different limit is signed?",
+    "options": [
+      "30 km/h",
+      "50 km/h",
+      "70 km/h"
+    ],
+    "answer": 0,
+    "explanation": "Brussels uses 30 km/h in built-up areas. Outside them, ordinary-road and motorway defaults differ.",
+    "nl": "Wat is de gewone snelheidslimiet binnen de bebouwde kom in Brussel zonder andere limiet?",
+    "nlOptions": [
+      "Dertig kilometer per uur",
+      "Vijftig kilometer per uur",
+      "Zeventig kilometer per uur"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Maximum permitted speed: five-point question under Flemish exam rules"
+  },
+  {
+    "id": "q037",
+    "lesson": 13,
+    "text": "What makes up stopping distance?",
+    "options": [
+      "Only braking distance",
+      "Reaction distance plus braking distance",
+      "Only the distance travelled in one second"
+    ],
+    "answer": 1,
+    "explanation": "The car moves during your reaction time, then continues moving while braking. Both distances form the stop.",
+    "nl": "Waaruit bestaat de stopafstand?",
+    "nlOptions": [
+      "Alleen de remafstand",
+      "Reactieafstand plus remafstand",
+      "Alleen de afstand van één seconde"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q038",
+    "lesson": 13,
+    "text": "Under the same grip conditions, doubling speed does what to braking distance approximately?",
+    "options": [
+      "Halves it",
+      "Doubles it",
+      "Quadruples it"
+    ],
+    "answer": 2,
+    "explanation": "Braking distance grows approximately with the square of speed, so doubling speed roughly quadruples it.",
+    "nl": "Wat gebeurt ongeveer met de remafstand als je de snelheid verdubbelt bij dezelfde grip?",
+    "nlOptions": [
+      "Ze halveert",
+      "Ze verdubbelt",
+      "Ze verviervoudigt"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q039",
+    "lesson": 13,
+    "text": "On a wet road, what should you do with your following gap?",
+    "options": [
+      "Increase it",
+      "Keep exactly the same gap",
+      "Reduce it so nobody merges"
+    ],
+    "answer": 0,
+    "explanation": "Wet conditions reduce grip and usually increase braking distance, so allow a larger gap.",
+    "nl": "Wat doe je met je volgafstand op een natte weg?",
+    "nlOptions": [
+      "Vergroten",
+      "Exact gelijk houden",
+      "Verkleinen zodat niemand invoegt"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q040",
+    "lesson": 14,
+    "text": "A parked van blocks your side of a narrow two-way road. An oncoming car is close. What should you normally do?",
+    "options": [
+      "Go around first",
+      "Give way before passing the obstacle",
+      "Use the pavement"
+    ],
+    "answer": 1,
+    "explanation": "When the obstacle is on your side, normally yield to oncoming traffic and go around only when safe.",
+    "nl": "Een geparkeerde bestelwagen blokkeert jouw kant van een smalle tweerichtingsweg. Er nadert een auto. Wat doe je normaal?",
+    "nlOptions": [
+      "Eerst voorbijrijden",
+      "Voorrang verlenen voor je het obstakel voorbijrijdt",
+      "Het trottoir gebruiken"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Meeting traffic around an obstacle: Article 15.2, third degree"
+  },
+  {
+    "id": "q041",
+    "lesson": 14,
+    "text": "You have priority at a narrow section, but an oncoming vehicle is already in it. What should you do?",
+    "options": [
+      "Enter and force it to reverse",
+      "Wait and avoid a collision",
+      "Sound the horn continuously"
+    ],
+    "answer": 1,
+    "explanation": "Priority never removes the obligation to avoid danger. Do not force your way into an occupied narrow section.",
+    "nl": "Je hebt voorrang aan een versmalling, maar een tegenligger is er al in. Wat doe je?",
+    "nlOptions": [
+      "Inrijden en hem dwingen achteruit te rijden",
+      "Wachten en een aanrijding vermijden",
+      "Ononderbroken claxonneren"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q042",
+    "lesson": 14,
+    "text": "To pass an oncoming vehicle, may you force a cyclist onto the verge?",
+    "options": [
+      "Yes, if you indicate",
+      "No",
+      "Only outside town"
+    ],
+    "answer": 1,
+    "explanation": "You must leave safe clearance and protect vulnerable users. Slow or stop when there is insufficient space.",
+    "nl": "Mag je een fietser op de berm dwingen om een tegenligger te kruisen?",
+    "nlOptions": [
+      "Ja, als je richting aangeeft",
+      "Nee",
+      "Alleen buiten de bebouwde kom"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Endangering a cyclist: Article 40ter, third degree"
+  },
+  {
+    "id": "q043",
+    "lesson": 15,
+    "text": "What is the minimum lateral clearance when passing a cyclist outside a built-up area?",
+    "options": [
+      "0.5 metre",
+      "1 metre",
+      "1.5 metres"
+    ],
+    "answer": 2,
+    "explanation": "Outside a built-up area, leave at least 1.5 m; within a built-up area, at least 1 m.",
+    "nl": "Wat is de minimale zijdelingse afstand bij het voorbijrijden van een fietser buiten de bebouwde kom?",
+    "nlOptions": [
+      "Een halve meter",
+      "Eén meter",
+      "Anderhalve meter"
+    ],
+    "major": true,
+    "image": "passing-cyclist.webp",
+    "severityReason": "Cyclist lateral clearance: Article 40ter, third degree"
+  },
+  {
+    "id": "q044",
+    "lesson": 15,
+    "text": "The driver ahead clearly signals and positions to turn left. May you pass on the right if there is enough lawful space?",
+    "options": [
+      "Yes",
+      "No, there are no exceptions",
+      "Only using the cycle path"
+    ],
+    "answer": 0,
+    "explanation": "This is a specific exception to the normal left-side overtaking rule. The available space must be lawful and safe.",
+    "nl": "De bestuurder voor je geeft duidelijk links aan en stelt zich op om links af te slaan. Mag je rechts voorbij als er voldoende toegelaten ruimte is?",
+    "nlOptions": [
+      "Ja",
+      "Nee, er bestaan geen uitzonderingen",
+      "Alleen via het fietspad"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q045",
+    "lesson": 15,
+    "text": "Before overtaking, you notice another vehicle already overtaking you. What should you do?",
+    "options": [
+      "Start anyway",
+      "Wait and let it complete its pass",
+      "Accelerate to block it"
+    ],
+    "answer": 1,
+    "explanation": "Check behind before moving left. Do not begin an overtaking manoeuvre when someone is already overtaking you.",
+    "nl": "Voor je inhaalt zie je dat een ander voertuig jou al inhaalt. Wat doe je?",
+    "nlOptions": [
+      "Toch beginnen",
+      "Wachten en het laten voorbijrijden",
+      "Versnellen om het te blokkeren"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q046",
+    "lesson": 16,
+    "text": "May you cross a continuous white line to overtake a slow car?",
+    "options": [
+      "Yes, if the road is empty",
+      "No",
+      "Yes, after flashing your lights"
+    ],
+    "answer": 1,
+    "explanation": "Crossing a continuous white line to overtake is prohibited. Wait for a legal opportunity.",
+    "nl": "Mag je een doorlopende witte lijn overschrijden om een trage auto in te halen?",
+    "nlOptions": [
+      "Ja, als de weg leeg is",
+      "Nee",
+      "Ja, na een lichtsignaal"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Crossing a continuous white line: Article 72.2, third degree"
+  },
+  {
+    "id": "q047",
+    "lesson": 16,
+    "text": "Someone is overtaking your car. May you accelerate?",
+    "options": [
+      "Yes, to finish sooner",
+      "No",
+      "Only if they are too slow"
+    ],
+    "answer": 1,
+    "explanation": "A driver being overtaken must keep right as appropriate and must not accelerate.",
+    "nl": "Iemand haalt je auto in. Mag je versnellen?",
+    "nlOptions": [
+      "Ja, om sneller klaar te zijn",
+      "Nee",
+      "Alleen als die te traag is"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Accelerating while being overtaken: Article 16.7, third degree"
+  },
+  {
+    "id": "q048",
+    "lesson": 16,
+    "text": "You cannot see beyond a blind bend on an ordinary two-way road. Should you start overtaking a car?",
+    "options": [
+      "Yes, quickly",
+      "No",
+      "Yes, with the horn"
+    ],
+    "answer": 1,
+    "explanation": "You need sufficient visibility and space to complete a safe overtake. A blind bend removes that assurance.",
+    "nl": "Je ziet niet voorbij een onoverzichtelijke bocht op een gewone tweerichtingsweg. Begin je een auto in te halen?",
+    "nlOptions": [
+      "Ja, snel",
+      "Nee",
+      "Ja, met de claxon"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Overtaking a car at a blind bend: Article 17.2.3, fourth degree"
+  },
+  {
+    "id": "q049",
+    "lesson": 17,
+    "text": "A police officer instructs you to proceed, but the traffic light is red. Which instruction takes priority?",
+    "options": [
+      "The traffic light",
+      "The officer’s instruction",
+      "The nearest road sign"
+    ],
+    "answer": 1,
+    "explanation": "An authorised person’s instruction takes precedence over traffic lights, signs and general rules.",
+    "nl": "Een politieagent beveelt door te rijden maar het verkeerslicht is rood. Wat heeft voorrang?",
+    "nlOptions": [
+      "Het verkeerslicht",
+      "Het bevel van de agent",
+      "Het dichtstbijzijnde verkeersbord"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Authorised person’s instruction: Article 4.1, third degree"
+  },
+  {
+    "id": "q050",
+    "lesson": 17,
+    "text": "A priority vehicle approaches with its special audible warning. What must you do?",
+    "options": [
+      "Immediately clear a safe passage and give way",
+      "Keep going unless it touches your lane",
+      "Follow closely behind it"
+    ],
+    "answer": 0,
+    "explanation": "Make passage immediately, give way and stop if necessary, without creating new danger.",
+    "nl": "Een prioritair voertuig nadert met zijn speciaal geluidssignaal. Wat moet je doen?",
+    "nlOptions": [
+      "Meteen veilig ruimte maken en voorrang verlenen",
+      "Doorrijden tenzij het jouw rijstrook raakt",
+      "Er vlak achter rijden"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Emergency vehicle passage: Article 38, third degree"
+  },
+  {
+    "id": "q051",
+    "lesson": 17,
+    "text": "May you follow an ambulance through a rescue corridor to avoid the queue?",
+    "options": [
+      "Yes, if you leave a gap",
+      "No",
+      "Only with hazard lights"
+    ],
+    "answer": 1,
+    "explanation": "The rescue corridor is for emergency access, not an extra passing lane.",
+    "nl": "Mag je achter een ambulance door de reddingsstrook rijden om de file te vermijden?",
+    "nlOptions": [
+      "Ja, met afstand",
+      "Nee",
+      "Alleen met alarmlichten"
+    ],
+    "major": false,
+    "image": "rescue-corridor.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q052",
+    "lesson": 18,
+    "text": "A steady amber light appears and you can stop safely before the line. What should you do?",
+    "options": [
+      "Stop",
+      "Accelerate",
+      "Continue because amber always allows passage"
+    ],
+    "answer": 0,
+    "explanation": "Stop for steady amber unless you are too close to stop safely.",
+    "nl": "Het licht wordt vast oranje en je kunt veilig voor de streep stoppen. Wat doe je?",
+    "nlOptions": [
+      "Stoppen",
+      "Versnellen",
+      "Doorrijden want oranje laat altijd doorgang toe"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q053",
+    "lesson": 18,
+    "text": "You face a red traffic light. May you cross the stop line because the junction looks empty?",
+    "options": [
+      "Yes",
+      "No",
+      "Only late at night"
+    ],
+    "answer": 1,
+    "explanation": "A red light prohibits passing the stop line. An apparently empty junction does not change it.",
+    "nl": "Het verkeerslicht is rood. Mag je de stopstreep voorbij omdat het kruispunt leeg lijkt?",
+    "nlOptions": [
+      "Ja",
+      "Nee",
+      "Alleen laat in de nacht"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Passing a red light: Article 61.1.1, third degree"
+  },
+  {
+    "id": "q054",
+    "lesson": 18,
+    "text": "The lights at a junction flash amber. Give-way signs are present. Which rule applies?",
+    "options": [
+      "The signs, with extra caution",
+      "You automatically have priority",
+      "The largest vehicle goes first"
+    ],
+    "answer": 0,
+    "explanation": "Flashing amber warns you to be careful. Priority signs still apply.",
+    "nl": "De verkeerslichten knipperen oranje en er staan voorrangsborden. Welke regel geldt?",
+    "nlOptions": [
+      "De borden, met extra voorzichtigheid",
+      "Je hebt automatisch voorrang",
+      "Het grootste voertuig gaat eerst"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q055",
+    "lesson": 19,
+    "text": "At a STOP sign, no traffic is visible. Must you still come to a complete stop?",
+    "options": [
+      "Yes",
+      "No, slowing down is enough",
+      "Only if a pedestrian is present"
+    ],
+    "answer": 0,
+    "explanation": "STOP requires a complete stop, then giving way. This differs from a give-way sign.",
+    "nl": "Aan een STOP-bord is geen verkeer te zien. Moet je volledig stoppen?",
+    "nlOptions": [
+      "Ja",
+      "Nee, vertragen volstaat",
+      "Alleen als er een voetganger is"
+    ],
+    "major": false,
+    "image": "stop-junction.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q056",
+    "lesson": 19,
+    "text": "What does this yellow diamond sign indicate?",
+    "options": [
+      "End of all speed restrictions",
+      "A priority road",
+      "A compulsory left turn"
+    ],
+    "answer": 1,
+    "explanation": "The yellow diamond identifies a priority road. It does not set a speed limit.",
+    "nl": "Wat betekent dit gele ruitvormige bord?",
+    "nlOptions": [
+      "Einde van alle snelheidsbeperkingen",
+      "Een voorrangsweg",
+      "Verplicht links afslaan"
+    ],
+    "major": false,
+    "image": "priority-road-sign.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q057",
+    "lesson": 19,
+    "text": "You leave a roundabout. Which indicator should you use?",
+    "options": [
+      "Right",
+      "Left",
+      "None in every case"
+    ],
+    "answer": 0,
+    "explanation": "Indicate right before exiting and check for pedestrians and cyclists.",
+    "nl": "Je verlaat een rotonde. Welke richtingaanwijzer gebruik je?",
+    "nlOptions": [
+      "Rechts",
+      "Links",
+      "Nooit een richtingaanwijzer"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q058",
+    "lesson": 20,
+    "text": "In this diagram, there are no signals or priority signs. You drive the purple car. Who normally goes first?",
+    "options": [
+      "The purple car",
+      "The red car coming from the right",
+      "The larger car"
+    ],
+    "answer": 1,
+    "explanation": "The red car approaches from the purple driver’s right. Priority from the right applies.",
+    "nl": "Er zijn geen lichten of voorrangsborden. Jij rijdt met de paarse auto. Wie gaat normaal eerst?",
+    "nlOptions": [
+      "De paarse auto",
+      "De rode auto die van rechts komt",
+      "De grootste auto"
+    ],
+    "major": false,
+    "image": "priority-from-right.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q059",
+    "lesson": 20,
+    "text": "At an equal junction, a driver from your right has stopped. Have they automatically lost priority?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if stopped for 3 seconds"
+    ],
+    "answer": 1,
+    "explanation": "Stopping does not automatically remove priority from the right. Do not assume their hesitation gives you priority.",
+    "nl": "Op een gelijkwaardig kruispunt is de bestuurder rechts gestopt. Verliest die automatisch voorrang?",
+    "nlOptions": [
+      "Ja",
+      "Nee",
+      "Alleen na drie seconden"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q060",
+    "lesson": 20,
+    "text": "You reverse out of a parking space. Who must you give way to?",
+    "options": [
+      "Only cars coming from the right",
+      "All other road users affected by your manoeuvre",
+      "Nobody if you indicate"
+    ],
+    "answer": 1,
+    "explanation": "Reversing is a manoeuvre. The driver performing it must give way to other road users.",
+    "nl": "Je rijdt achteruit uit een parkeerplaats. Aan wie moet je voorrang verlenen?",
+    "nlOptions": [
+      "Alleen auto’s van rechts",
+      "Alle andere weggebruikers die bij je manoeuvre betrokken zijn",
+      "Niemand als je richting aangeeft"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q061",
+    "lesson": 21,
+    "text": "You turn left while an oncoming car continues straight. Who should go first?",
+    "options": [
+      "You",
+      "The oncoming car",
+      "Whoever signals first"
+    ],
+    "answer": 1,
+    "explanation": "A left-turning driver gives way to oncoming traffic continuing straight or turning right.",
+    "nl": "Je slaat links af terwijl een tegenligger rechtdoor rijdt. Wie gaat eerst?",
+    "nlOptions": [
+      "Jij",
+      "De tegenligger",
+      "Wie eerst richting aangeeft"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Left-turn priority: Article 19.3.3, third degree"
+  },
+  {
+    "id": "q062",
+    "lesson": 21,
+    "text": "Before turning right across a cycle path, what check is essential?",
+    "options": [
+      "Only the centre mirror",
+      "Mirrors and the right blind spot for cyclists",
+      "Only the traffic light ahead"
+    ],
+    "answer": 1,
+    "explanation": "Cyclists can be beside or behind you. Check mirrors and the blind spot, then give way when crossing their path.",
+    "nl": "Welke controle is essentieel voor je rechts over een fietspad afslaat?",
+    "nlOptions": [
+      "Alleen de binnenspiegel",
+      "Spiegels en de rechterdodehoek voor fietsers",
+      "Alleen het verkeerslicht voor je"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q063",
+    "lesson": 21,
+    "text": "On a two-way road, how should you normally prepare for a left turn?",
+    "options": [
+      "Move toward the centre without entering the oncoming side",
+      "Move to the right pavement",
+      "Drive on the oncoming lane early"
+    ],
+    "answer": 0,
+    "explanation": "Position toward the centre while remaining on your lawful side, signal and give way as required.",
+    "nl": "Hoe stel je je normaal op voor links afslaan op een tweerichtingsweg?",
+    "nlOptions": [
+      "Naar het midden zonder de tegenrichting te gebruiken",
+      "Naar het rechtertrottoir",
+      "Vroeg op de rijstrook van tegenliggers"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q064",
+    "lesson": 22,
+    "text": "A railway signal flashes red but the barrier is still up. May you cross?",
+    "options": [
+      "Yes, until the barrier starts moving",
+      "No",
+      "Yes, if you see no train"
+    ],
+    "answer": 1,
+    "explanation": "Red flashing signals already require stopping. Do not wait for the barrier to lower.",
+    "nl": "Het spoorwegsignaal knippert rood maar de slagboom staat nog omhoog. Mag je oversteken?",
+    "nlOptions": [
+      "Ja, tot de slagboom beweegt",
+      "Nee",
+      "Ja, als je geen trein ziet"
+    ],
+    "major": true,
+    "image": "level-crossing.webp",
+    "severityReason": "Red railway signal: Article 20.3, fourth degree"
+  },
+  {
+    "id": "q065",
+    "lesson": 22,
+    "text": "A tram approaches from your left. No officer or traffic light changes the rule. Who normally has priority?",
+    "options": [
+      "You, because the tram is on the left",
+      "The tram",
+      "The faster vehicle"
+    ],
+    "answer": 1,
+    "explanation": "Rail vehicles normally have priority over other road users, including when approaching from the left.",
+    "nl": "Een tram komt van links. Geen agent of verkeerslicht wijzigt de regel. Wie heeft normaal voorrang?",
+    "nlOptions": [
+      "Jij, want de tram komt van links",
+      "De tram",
+      "Het snelste voertuig"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q066",
+    "lesson": 22,
+    "text": "In a built-up area, a bus signals to leave its stop. What should you do?",
+    "options": [
+      "Let it pull out, stopping if needed",
+      "Accelerate past before it moves",
+      "Ignore it unless it is on your right"
+    ],
+    "answer": 0,
+    "explanation": "In a built-up area, allow a signalling bus or trolleybus to leave its stop.",
+    "nl": "Binnen de bebouwde kom geeft een bus richting aan om zijn halte te verlaten. Wat doe je?",
+    "nlOptions": [
+      "Laten vertrekken en zo nodig stoppen",
+      "Versnellen en er nog voorbijrijden",
+      "Negeren tenzij hij rechts staat"
+    ],
+    "major": false,
+    "image": "bus-stop.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q067",
+    "lesson": 23,
+    "text": "A no-entry sign has a plate excepting bicycles. May you enter in a car?",
+    "options": [
+      "Yes, at cycle speed",
+      "No",
+      "Yes, if no cyclists are present"
+    ],
+    "answer": 1,
+    "explanation": "An exception for bicycles does not apply to a car.",
+    "nl": "Onder een verboden-inrijbord staat een uitzondering voor fietsen. Mag je met een auto inrijden?",
+    "nlOptions": [
+      "Ja, aan fietssnelheid",
+      "Nee",
+      "Ja, als er geen fietsers zijn"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "No-entry sign C1: Articles 5 and 68.3, third degree"
+  },
+  {
+    "id": "q068",
+    "lesson": 23,
+    "text": "A one-way road permits cyclists in the opposite direction. Should you check for them before turning?",
+    "options": [
+      "Yes",
+      "No, one-way means no oncoming users",
+      "Only at night"
+    ],
+    "answer": 0,
+    "explanation": "A one-way rule for cars can permit contraflow cycling. Read the plates and check for lawful oncoming cyclists.",
+    "nl": "Een eenrichtingsweg laat fietsers in tegenrichting toe. Moet je daarop letten voor je afslaat?",
+    "nlOptions": [
+      "Ja",
+      "Nee, eenrichtingsverkeer betekent geen tegenliggers",
+      "Alleen in de nacht"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q069",
+    "lesson": 23,
+    "text": "A height-limit sign shows 2.5 metres. Your roof load makes the car 2.6 metres high. May you enter?",
+    "options": [
+      "Yes, the sign excludes the load",
+      "No",
+      "Yes, if the load is soft"
+    ],
+    "answer": 1,
+    "explanation": "Height restrictions include the load. Your total height exceeds the limit.",
+    "nl": "Een hoogtebeperking is twee meter vijftig. Met daklading is je auto twee meter zestig hoog. Mag je inrijden?",
+    "nlOptions": [
+      "Ja, de lading telt niet",
+      "Nee",
+      "Ja, als de lading zacht is"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q070",
+    "lesson": 24,
+    "text": "What must a car do at the pictured mandatory-direction sign?",
+    "options": [
+      "Go straight",
+      "Turn left if clear",
+      "Choose any direction because bicycles are excepted"
+    ],
+    "answer": 0,
+    "explanation": "The blue arrow requires straight ahead. The supplementary cycle/moped exception does not exempt a car.",
+    "nl": "Wat moet een auto doen aan dit gebodsbord?",
+    "nlOptions": [
+      "Rechtdoor rijden",
+      "Links afslaan als het vrij is",
+      "Elke richting kiezen omdat fietsen uitgezonderd zijn"
+    ],
+    "major": false,
+    "image": "mandatory-straight.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q071",
+    "lesson": 24,
+    "text": "You discover too late that you are in a straight-ahead-only lane. What is safest and legal?",
+    "options": [
+      "Turn anyway",
+      "Follow the lane and find another route",
+      "Reverse to change lanes"
+    ],
+    "answer": 1,
+    "explanation": "Follow the lawful lane direction rather than making a sudden prohibited move.",
+    "nl": "Je merkt te laat dat je in een rijstrook uitsluitend voor rechtdoor staat. Wat is veilig en wettig?",
+    "nlOptions": [
+      "Toch afslaan",
+      "De rijstrook volgen en een andere route zoeken",
+      "Achteruitrijden om van strook te veranderen"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q072",
+    "lesson": 24,
+    "text": "A sign requires a right turn. Does that give you priority over pedestrians crossing the road you enter?",
+    "options": [
+      "Yes",
+      "No",
+      "Only if you signal"
+    ],
+    "answer": 1,
+    "explanation": "A mandatory direction does not override the turning driver’s duty to give way to crossing pedestrians.",
+    "nl": "Een bord verplicht rechts af te slaan. Geeft dat voorrang op voetgangers die de weg oversteken waar je inrijdt?",
+    "nlOptions": [
+      "Ja",
+      "Nee",
+      "Alleen met richtingaanwijzer"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Pedestrians when turning: Article 19.5, third degree"
+  },
+  {
+    "id": "q073",
+    "lesson": 25,
+    "text": "You sit in your car waiting for a friend to arrive. Legally, is this stopping for boarding or parking?",
+    "options": [
+      "Parking",
+      "Stopping, because you stay inside",
+      "Neither if the engine runs"
+    ],
+    "answer": 0,
+    "explanation": "Waiting for someone to arrive is parking. Stopping is only the time necessary for actual boarding or loading.",
+    "nl": "Je zit in de auto en wacht tot een vriend aankomt. Is dat stilstaan om in te stappen of parkeren?",
+    "nlOptions": [
+      "Parkeren",
+      "Stilstaan, want je blijft binnen",
+      "Geen van beide als de motor draait"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q074",
+    "lesson": 25,
+    "text": "May you briefly stop on a cycle path to drop off a passenger?",
+    "options": [
+      "Yes, with hazard lights",
+      "No",
+      "Yes, if no cyclist is visible"
+    ],
+    "answer": 1,
+    "explanation": "Both stopping and parking on a cycle path are prohibited. Hazard lights do not create an exception.",
+    "nl": "Mag je even op een fietspad stilstaan om iemand af te zetten?",
+    "nlOptions": [
+      "Ja, met alarmlichten",
+      "Nee",
+      "Ja, als je geen fietser ziet"
+    ],
+    "major": false,
+    "image": "parking-on-cycle-lane.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q075",
+    "lesson": 25,
+    "text": "On the carriageway, how much distance must you normally leave before a pedestrian crossing when stopping or parking?",
+    "options": [
+      "At least 1 metre",
+      "At least 5 metres",
+      "No distance if your car is small"
+    ],
+    "answer": 1,
+    "explanation": "Stopping and parking on the carriageway are prohibited within 5 m before the crossing. The crossing itself must always stay clear.",
+    "nl": "Hoeveel afstand moet je op de rijbaan normaal vóór een zebrapad houden bij stilstaan of parkeren?",
+    "nlOptions": [
+      "Minstens één meter",
+      "Minstens vijf meter",
+      "Geen afstand bij een kleine auto"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q076",
+    "lesson": 26,
+    "text": "What does the pictured sign prohibit?",
+    "options": [
+      "Parking only",
+      "Both stopping and parking",
+      "All traffic"
+    ],
+    "answer": 0,
+    "explanation": "One diagonal red bar prohibits parking. Genuine boarding or loading can be allowed if no other stopping prohibition applies.",
+    "nl": "Wat verbiedt dit bord?",
+    "nlOptions": [
+      "Alleen parkeren",
+      "Stilstaan en parkeren",
+      "Alle verkeer"
+    ],
+    "major": false,
+    "image": "no-parking-sign.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q077",
+    "lesson": 26,
+    "text": "What does this red-and-blue cross sign prohibit?",
+    "options": [
+      "Only parking overnight",
+      "Both stopping and parking",
+      "Only loading goods"
+    ],
+    "answer": 1,
+    "explanation": "The cross sign prohibits both stopping and parking.",
+    "nl": "Wat verbiedt dit rood-blauwe bord met een kruis?",
+    "nlOptions": [
+      "Alleen ’s nachts parkeren",
+      "Stilstaan en parkeren",
+      "Alleen goederen laden"
+    ],
+    "major": false,
+    "image": "no-stopping-sign.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q078",
+    "lesson": 26,
+    "text": "A broken yellow line runs along the carriageway edge. May you park beside it?",
+    "options": [
+      "Yes, if you stay in the car",
+      "No",
+      "Only for 10 minutes"
+    ],
+    "answer": 1,
+    "explanation": "A broken yellow edge line prohibits parking along it. It does not automatically prohibit genuine stopping, but other restrictions may apply.",
+    "nl": "Een gele onderbroken lijn ligt langs de rand van de rijbaan. Mag je ernaast parkeren?",
+    "nlOptions": [
+      "Ja, als je binnen blijft",
+      "Nee",
+      "Alleen tien minuten"
+    ],
+    "major": false,
+    "image": "yellow-parking-line.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q079",
+    "lesson": 27,
+    "text": "You arrive at 10:10 in a standard blue zone. What time should you set on the disc?",
+    "options": [
+      "10:00",
+      "10:30",
+      "11:00"
+    ],
+    "answer": 1,
+    "explanation": "Set the next half-hour mark following arrival: 10:10 becomes 10:30. The normal 2-hour period then runs to 12:30 unless signs differ.",
+    "nl": "Je komt om tien uur tien aan in een gewone blauwe zone. Op welke tijd zet je de parkeerschijf?",
+    "nlOptions": [
+      "Tien uur",
+      "Tien uur dertig",
+      "Elf uur"
+    ],
+    "major": false,
+    "image": "parking-disc.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q080",
+    "lesson": 27,
+    "text": "Your blue-zone parking time has expired. May you reset the disc without moving the car?",
+    "options": [
+      "Yes",
+      "No",
+      "Only once"
+    ],
+    "answer": 1,
+    "explanation": "You must move the vehicle; resetting the disc while staying is prohibited.",
+    "nl": "Je parkeertijd in de blauwe zone is verlopen. Mag je de schijf opnieuw instellen zonder de auto te verplaatsen?",
+    "nlOptions": [
+      "Ja",
+      "Nee",
+      "Slechts één keer"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q081",
+    "lesson": 27,
+    "text": "In a standard blue zone with no different posted hours, is the disc normally required on Saturday at 11:00?",
+    "options": [
+      "Yes",
+      "No, Saturday is always excluded",
+      "Only after 18:00"
+    ],
+    "answer": 0,
+    "explanation": "Standard blue-zone hours are working days, normally Monday to Saturday, 09:00–18:00. Check signs for local differences and public holidays.",
+    "nl": "Is in een gewone blauwe zone zonder afwijkende uren normaal een schijf nodig op zaterdag om elf uur?",
+    "nlOptions": [
+      "Ja",
+      "Nee, zaterdag is altijd uitgesloten",
+      "Alleen na achttien uur"
+    ],
+    "major": false,
+    "image": "blue-zone.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q082",
+    "lesson": 28,
+    "text": "For an ordinary car driver, at what blood-alcohol level does the usual punishable threshold begin?",
+    "options": [
+      "0.5 g/l",
+      "1.0 g/l",
+      "1.5 g/l"
+    ],
+    "answer": 0,
+    "explanation": "The ordinary threshold is 0.5 g/l blood, equivalent to 0.5 per mille, or 0.22 mg/l breath. Some professional drivers have a lower threshold.",
+    "nl": "Vanaf welk alcoholgehalte in het bloed begint de gewone strafbare grens voor een autobestuurder?",
+    "nlOptions": [
+      "Nul komma vijf gram per liter",
+      "Eén gram per liter",
+      "Eén komma vijf gram per liter"
+    ],
+    "major": false,
+    "image": "breathalyser.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q083",
+    "lesson": 28,
+    "text": "Which reliably lowers the amount of alcohol in your body?",
+    "options": [
+      "Coffee",
+      "A cold shower",
+      "Time"
+    ],
+    "answer": 2,
+    "explanation": "Only time allows your body to eliminate alcohol. Coffee and cold showers do not make you sober.",
+    "nl": "Wat verlaagt betrouwbaar de hoeveelheid alcohol in je lichaam?",
+    "nlOptions": [
+      "Koffie",
+      "Een koude douche",
+      "Tijd"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q084",
+    "lesson": 28,
+    "text": "A prescription medicine makes you drowsy. Is it automatically safe to drive because it was prescribed?",
+    "options": [
+      "Yes",
+      "No",
+      "Yes, on short trips"
+    ],
+    "answer": 1,
+    "explanation": "Prescription status does not guarantee driving fitness. Read warnings and consult a pharmacist.",
+    "nl": "Een voorgeschreven geneesmiddel maakt je slaperig. Mag je automatisch veilig rijden omdat het is voorgeschreven?",
+    "nlOptions": [
+      "Ja",
+      "Nee",
+      "Ja, bij korte ritten"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q085",
+    "lesson": 29,
+    "text": "When safely placing a warning triangle behind a breakdown on a motorway, what is the minimum normal distance?",
+    "options": [
+      "10 metres",
+      "30 metres",
+      "100 metres"
+    ],
+    "answer": 2,
+    "explanation": "Normally at least 100 m on a motorway, compared with at least 30 m on an ordinary road. Never expose yourself to traffic to place it.",
+    "nl": "Wat is normaal de minimale afstand voor een veilig geplaatste gevarendriehoek achter een defect voertuig op de autosnelweg?",
+    "nlOptions": [
+      "Tien meter",
+      "Dertig meter",
+      "Honderd meter"
+    ],
+    "major": false,
+    "image": "warning-triangle.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q086",
+    "lesson": 29,
+    "text": "There are injured people after a collision. Which emergency number should you call?",
+    "options": [
+      "112",
+      "Only your insurer",
+      "The parking operator"
+    ],
+    "answer": 0,
+    "explanation": "Call 112, give the exact location, casualties and hazards, and follow the operator’s instructions.",
+    "nl": "Er zijn gewonden na een ongeval. Welk noodnummer bel je?",
+    "nlOptions": [
+      "Honderdtwaalf",
+      "Alleen je verzekeraar",
+      "De parkeerbeheerder"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q087",
+    "lesson": 29,
+    "text": "You break down on a motorway. Where should occupants wait when it is safe to reach it?",
+    "options": [
+      "In front of the car",
+      "Behind the safety barrier, away from traffic",
+      "On the shoulder beside the car"
+    ],
+    "answer": 1,
+    "explanation": "Get people away from live traffic and behind the barrier when safely possible. Use a reflective vest and warn others without putting yourself at risk.",
+    "nl": "Je krijgt pech op de autosnelweg. Waar wachten inzittenden als ze er veilig kunnen komen?",
+    "nlOptions": [
+      "Voor de auto",
+      "Achter de vangrail, weg van het verkeer",
+      "Op de pechstrook naast de auto"
+    ],
+    "major": false,
+    "image": "reflective-vest.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q088",
+    "lesson": 30,
+    "text": "Which driving style usually reduces fuel use and risk?",
+    "options": [
+      "Repeated hard acceleration and braking",
+      "Anticipating traffic and easing off early",
+      "Tailgating to reduce air resistance"
+    ],
+    "answer": 1,
+    "explanation": "Anticipation and smooth changes in speed reduce unnecessary acceleration and sudden braking.",
+    "nl": "Welke rijstijl vermindert meestal verbruik en risico?",
+    "nlOptions": [
+      "Herhaald hard optrekken en remmen",
+      "Vooruitkijken en tijdig gas lossen",
+      "Bumperkleven voor minder luchtweerstand"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q089",
+    "lesson": 30,
+    "text": "What should you do with an unused roof box?",
+    "options": [
+      "Leave it on permanently",
+      "Remove it",
+      "Fill it with extra weight"
+    ],
+    "answer": 1,
+    "explanation": "Removing an unused roof box reduces aerodynamic drag and fuel consumption.",
+    "nl": "Wat doe je met een dakkoffer die je niet gebruikt?",
+    "nlOptions": [
+      "Permanent laten staan",
+      "Verwijderen",
+      "Met extra gewicht vullen"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q090",
+    "lesson": 30,
+    "text": "How should you choose tyre pressure for a loaded trip?",
+    "options": [
+      "Use the manufacturer’s cold-pressure specification for the load",
+      "Add an arbitrary amount to every car",
+      "Use the lowest pressure for comfort"
+    ],
+    "answer": 0,
+    "explanation": "Use the pressure label or handbook for your actual load, checking cold tyres. A universal pressure increase is not reliable.",
+    "nl": "Hoe kies je bandenspanning voor een beladen rit?",
+    "nlOptions": [
+      "De voorgeschreven koude spanning voor die belading",
+      "Een willekeurige verhoging voor elke auto",
+      "De laagste spanning voor comfort"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q091",
+    "lesson": 31,
+    "text": "What is the legal minimum tread depth in the main grooves of a normal car tyre?",
+    "options": [
+      "0.6 mm",
+      "1.6 mm",
+      "4.0 mm"
+    ],
+    "answer": 1,
+    "explanation": "The legal minimum is 1.6 mm. More tread can be important for good wet-road performance.",
+    "nl": "Wat is de wettelijke minimale profieldiepte in de hoofdgroeven van een gewone autoband?",
+    "nlOptions": [
+      "Nul komma zes millimeter",
+      "Eén komma zes millimeter",
+      "Vier millimeter"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q092",
+    "lesson": 31,
+    "text": "During emergency braking with ABS, how should you normally use the brake pedal?",
+    "options": [
+      "Pump it rapidly",
+      "Press firmly and maintain pressure",
+      "Release it whenever it pulses"
+    ],
+    "answer": 1,
+    "explanation": "ABS modulates braking to prevent wheel lock. Maintain firm pressure; pedal pulsation is normal.",
+    "nl": "Hoe gebruik je het rempedaal normaal bij een noodstop met ABS?",
+    "nlOptions": [
+      "Snel pompen",
+      "Stevig indrukken en druk houden",
+      "Loslaten zodra het pulseert"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q093",
+    "lesson": 31,
+    "text": "Does electronic stability control allow you to ignore slippery-road conditions?",
+    "options": [
+      "Yes",
+      "No",
+      "Only with new tyres"
+    ],
+    "answer": 1,
+    "explanation": "ESP supports stability but cannot create grip or overcome the limits of speed, tyres and road conditions.",
+    "nl": "Mag je gladde wegen negeren omdat de auto elektronische stabiliteitscontrole heeft?",
+    "nlOptions": [
+      "Ja",
+      "Nee",
+      "Alleen met nieuwe banden"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q094",
+    "lesson": 19,
+    "text": "What action do these white triangular markings indicate?",
+    "options": [
+      "Give way",
+      "Accelerate",
+      "Park between the triangles"
+    ],
+    "answer": 0,
+    "explanation": "Shark teeth mark a give-way position. Check the priority road and vulnerable users before entering.",
+    "nl": "Welke handeling geven deze witte driehoeken aan?",
+    "nlOptions": [
+      "Voorrang verlenen",
+      "Versnellen",
+      "Tussen de driehoeken parkeren"
+    ],
+    "major": false,
+    "image": "shark-teeth.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q095",
+    "lesson": 2,
+    "text": "May you cross the hatched area to reach this motorway exit at the last moment?",
+    "options": [
+      "Yes, if you indicate",
+      "No",
+      "Only if the queue is long"
+    ],
+    "answer": 1,
+    "explanation": "Hatched areas are not drivable shortcuts. If you miss the legal exit path, continue to the next exit.",
+    "nl": "Mag je op het laatste moment over het verdrijvingsvlak naar deze afrit rijden?",
+    "nlOptions": [
+      "Ja, met richtingaanwijzer",
+      "Nee",
+      "Alleen bij een lange file"
+    ],
+    "major": false,
+    "image": "motorway-exit.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q096",
+    "lesson": 26,
+    "text": "This parking space is reserved for disabled users. Does an ordinary ticket allow you to use it?",
+    "options": [
+      "Yes",
+      "No, the appropriate valid card and conditions are required",
+      "Yes, for five minutes"
+    ],
+    "answer": 1,
+    "explanation": "Payment alone does not grant use of a reserved accessible space. The eligible person and valid parking card requirements apply.",
+    "nl": "Deze parkeerplaats is voorbehouden voor personen met een handicap. Mag je er staan met een gewoon parkeerticket?",
+    "nlOptions": [
+      "Ja",
+      "Nee, de geldige kaart en voorwaarden zijn nodig",
+      "Ja, vijf minuten"
+    ],
+    "major": false,
+    "image": "accessible-parking.webp",
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q097",
+    "lesson": 4,
+    "text": "A car can reach only 60 km/h on level ground. Is it normally admitted to the motorway?",
+    "options": [
+      "Yes",
+      "No",
+      "Only in the right lane"
+    ],
+    "answer": 1,
+    "explanation": "A vehicle must be capable of reaching 70 km/h on level ground for motorway access. This is an access capability rule, not a queue minimum.",
+    "nl": "Een auto kan op een vlakke weg maar zestig kilometer per uur halen. Mag die normaal de autosnelweg op?",
+    "nlOptions": [
+      "Ja",
+      "Nee",
+      "Alleen op de rechterrijstrook"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q098",
+    "lesson": 12,
+    "text": "What is the normal maximum for a passenger car on a motorway without a lower posted limit?",
+    "options": [
+      "90 km/h",
+      "120 km/h",
+      "130 km/h"
+    ],
+    "answer": 1,
+    "explanation": "The normal Belgian motorway maximum for an ordinary passenger car is 120 km/h.",
+    "nl": "Wat is de gewone maximumsnelheid voor een personenauto op een autosnelweg zonder lagere limiet?",
+    "nlOptions": [
+      "Negentig kilometer per uur",
+      "Honderdtwintig kilometer per uur",
+      "Honderddertig kilometer per uur"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Maximum permitted speed: five-point question under Flemish exam rules"
+  },
+  {
+    "id": "q099",
+    "lesson": 3,
+    "text": "At what point does a signed cycle zone normally end?",
+    "options": [
+      "At the next junction",
+      "At the end-of-cycle-zone sign",
+      "After 100 metres"
+    ],
+    "answer": 1,
+    "explanation": "Current cycle-zone rules extend across junctions until the zone-end sign. This corrects the book’s older bicycle-street wording.",
+    "nl": "Waar eindigt een aangeduide fietszone normaal?",
+    "nlOptions": [
+      "Aan het volgende kruispunt",
+      "Aan het einde-fietszonebord",
+      "Na honderd meter"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q100",
+    "lesson": 18,
+    "text": "Your light is green but traffic beyond the junction is stationary. May you enter and block the crossing road?",
+    "options": [
+      "Yes, because the light is green",
+      "No",
+      "Only with hazard lights"
+    ],
+    "answer": 1,
+    "explanation": "Do not enter a junction if you will be stuck blocking it. Green does not remove the duty to keep it clear.",
+    "nl": "Het licht is groen maar het verkeer voorbij het kruispunt staat stil. Mag je inrijden en de kruisende weg blokkeren?",
+    "nlOptions": [
+      "Ja, want het is groen",
+      "Nee",
+      "Alleen met alarmlichten"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q101",
+    "lesson": 11,
+    "text": "It is raining heavily. Are rear fog lights required?",
+    "options": [
+      "Yes",
+      "No, only fog counts",
+      "Only below 30 km/h"
+    ],
+    "answer": 0,
+    "explanation": "Belgian rules require rear fog lights in heavy rain, as well as fog or snowfall with visibility below 100 m.",
+    "nl": "Het regent hard. Zijn de mistachterlichten verplicht?",
+    "nlOptions": [
+      "Ja",
+      "Nee, alleen bij mist",
+      "Alleen onder dertig kilometer per uur"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q102",
+    "lesson": 15,
+    "text": "In a built-up area, what minimum lateral clearance should you leave when passing a cyclist?",
+    "options": [
+      "0.5 metre",
+      "1 metre",
+      "2.5 metres"
+    ],
+    "answer": 1,
+    "explanation": "The minimum in a built-up area is 1 m. Leave more if needed; outside it, the minimum is 1.5 m.",
+    "nl": "Welke minimale zijdelingse afstand houd je bij het voorbijrijden van een fietser binnen de bebouwde kom?",
+    "nlOptions": [
+      "Een halve meter",
+      "Eén meter",
+      "Twee en een halve meter"
+    ],
+    "major": true,
+    "image": null,
+    "severityReason": "Cyclist lateral clearance: Article 40ter, third degree"
+  },
+  {
+    "id": "q103",
+    "lesson": 13,
+    "text": "Which factor increases reaction distance at the same speed?",
+    "options": [
+      "A longer reaction time",
+      "A brighter paint colour",
+      "A lower vehicle roof"
+    ],
+    "answer": 0,
+    "explanation": "Distraction, fatigue or alcohol can delay your response and increase distance travelled before braking.",
+    "nl": "Welke factor vergroot de reactieafstand bij dezelfde snelheid?",
+    "nlOptions": [
+      "Een langere reactietijd",
+      "Een fellere lakkleur",
+      "Een lager autodak"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q104",
+    "lesson": 20,
+    "text": "You emerge from a private driveway on another driver’s right. Do you automatically have priority?",
+    "options": [
+      "Yes",
+      "No, leaving a driveway is a manoeuvre",
+      "Only if your car is larger"
+    ],
+    "answer": 1,
+    "explanation": "Leaving a driveway is a manoeuvre. Give way to other road users, rather than claiming priority from the right.",
+    "nl": "Je komt uit een privé-oprit rechts van een andere bestuurder. Heb je automatisch voorrang?",
+    "nlOptions": [
+      "Ja",
+      "Nee, een oprit verlaten is een manoeuvre",
+      "Alleen als je auto groter is"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  },
+  {
+    "id": "q105",
+    "lesson": 22,
+    "text": "A queue beyond a railway crossing leaves no room for your car. The signals permit passage. What should you do?",
+    "options": [
+      "Enter the tracks and wait",
+      "Wait before the crossing until you can clear it",
+      "Follow the car ahead closely"
+    ],
+    "answer": 1,
+    "explanation": "Do not enter unless you can clear the railway crossing completely.",
+    "nl": "Achter een overweg laat een file geen plaats voor je auto. De signalen laten doorgang toe. Wat doe je?",
+    "nlOptions": [
+      "Op de sporen rijden en wachten",
+      "Voor de overweg wachten tot je er volledig voorbij kunt",
+      "Dicht achter de vorige auto rijden"
+    ],
+    "major": false,
+    "image": null,
+    "severityReason": "Ordinary one-point practice question"
+  }
+]
