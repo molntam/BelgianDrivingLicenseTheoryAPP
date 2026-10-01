@@ -21,11 +21,13 @@ Open `http://localhost:3000`. This is a buildless static site; no dependency ins
 
 ## Host on GitHub Pages
 
-1. In [repository Settings → Pages](https://github.com/molntam/BelgianDrivingLicenseTheoryAPP/settings/pages), set **Build and deployment → Source** to **GitHub Actions**.
-2. Merge the GitHub Pages workflow into `main`. The **Deploy Drive B to GitHub Pages** workflow validates the course and publishes the contents of `dist/` on every push to `main`. You can also start it from **Actions → Deploy Drive B to GitHub Pages → Run workflow**.
-3. When deployment succeeds, open [Drive B on GitHub Pages](https://molntam.github.io/BelgianDrivingLicenseTheoryAPP/).
+1. In [repository Settings → Pages](https://github.com/molntam/BelgianDrivingLicenseTheoryAPP/settings/pages), select **Source → Deploy from a branch**, **Branch → main**, **Folder → /(root)**, then **Save**. If those are already selected, keep them.
+2. Merge the website changes into `main`. GitHub's built-in **pages build and deployment** publishes the site after each push to `main`.
+3. When that deployment succeeds, open [Drive B on GitHub Pages](https://molntam.github.io/BelgianDrivingLicenseTheoryAPP/).
 
-The workflow needs no database, API keys, dependency installation or build step. It uploads only `dist/`. GitHub's **Deploy from a branch** setting can serve the repository root or `/docs`, but cannot serve `/dist`; use the Actions source for this layout. Relative asset links and hash routes support the repository URL and direct lesson links.
+The repository-root `index.html` opens the app in `dist/` automatically, preserving lesson links and query parameters. The root `.nojekyll` tells Pages to serve the committed static files. There is no database, API key, dependency installation or build step. The **Check learning platform** workflow validates content on pushes and pull requests; GitHub's built-in Pages deployment handles publishing.
+
+Relative asset links and hash routes work under the repository URL. Both the root entry URL and the direct `/dist/` URL use the same browser storage, so this fix keeps existing progress available.
 
 The published website is public. Study progress stays in your browser and is not sent to GitHub. When moving from another host or local preview, export your progress from **Progress**, then import the JSON backup on the GitHub Pages site. Browser storage belongs to each origin, so progress does not transfer automatically. Use the same browser to keep studying, and export a backup before clearing browser data.
 
