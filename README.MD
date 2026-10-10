@@ -56,6 +56,10 @@ The SourceBook's PDF metadata dates to August 2022. The new road code is schedul
 
 The simulator uses original practice questions and device-provided speech synthesis, not official recordings or the official exam bank. Browser language voices must be available. Its sound test and timed text fallback make the limitation visible. The real translated exam keeps written questions in Dutch and reads Dutch before the chosen translation. English study quizzes deliberately show English.
 
+If English lessons work but Dutch-first exam audio fails, check that your browser has a Dutch speech voice. On Windows 11, open **Settings → Time & language → Speech → Manage voices → Add voices**, add Dutch or Flemish (Belgian Dutch), then fully restart the browser and run **Test selected audio** in the simulator. See [Microsoft's voice setup guide](https://support.microsoft.com/en-us/accessibility/windows/narrator/appendix-a-supported-languages-and-voices). You can choose **English only** or **Timed English text** while Dutch audio is unavailable.
+
+The sound test follows the selected mode. Audio waits briefly for browser voices to load, reports missing voices and playback failures separately, and reads long passages in shorter segments. The 15-second exam countdown begins only after every narration segment ends. A failed audio question stays paused until you retry or choose timed text.
+
 Progress is saved under `drive-b-progress-v1` in localStorage on the current origin. Clearing site data removes it; export a backup to transfer it. An unfinished quiz is not saved as a completed result.
 
 ## Validation
